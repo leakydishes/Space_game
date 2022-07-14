@@ -1,0 +1,37 @@
+// ufos
+BITMAP,ufo1,ufo1.png
+BITMAP,ufo2,ufo2.png
+BITMAP,ufo3,ufo3.png
+
+//HUD menu small bitmaps UFOS
+BITMAP,ufo1_small,ufo1_small.png
+BITMAP,ufo2_small,ufo1_small.png
+BITMAP,ufo3_small,ufo1_small.png
+
+//HUD menu small bitmaps human things
+BITMAP,burger_small,burger_small.png
+BITMAP,cake_small,cake_small.png
+BITMAP,cheese_small,cheese_small.png
+BITMAP,duck_small,duck_small.png
+BITMAP,horse_small,horse_small.png
+BITMAP,syringe_small,syringe_small.png
+
+//HUD menu small bitmap time
+BITMAP,time,time.png
+
+//human things
+BITMAP,burger,burger.png
+BITMAP,cake,cake.png
+BITMAP,cheese,cheese.png
+BITMAP,duck,duck.png
+BITMAP,horse,horse.png
+BITMAP,syringe,syringe.png
+
+//loading bar
+BITMAP,bar_grey_fill,bar_grey_fill.png
+BITMAP,bar_white_fill,bar_white_fill.png
+
+//virus
+BITMAP,virus1,virus1.png
+BITMAP,virus2,virus2.png
+BITMAP,virus3,virus3.png
